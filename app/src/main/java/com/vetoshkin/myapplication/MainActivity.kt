@@ -67,7 +67,7 @@ fun MainPart(){
     Column {
         BackArrowRow()
         PutThings()
-
+        AnyText()
 
     }
 }
